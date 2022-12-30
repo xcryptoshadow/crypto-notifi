@@ -1,4 +1,4 @@
-# Crypto Notifi
+# Crypto Notifi update
 Proactive alerts for the blockchain built on Moralis.io
 
 Copyright 2022 DZ Assets, LLC
